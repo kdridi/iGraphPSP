@@ -1,0 +1,18 @@
+[submodule "pspdev/psplibraries.git"]
+	path = pspdev/psplibraries.git
+	url = https://github.com/pspdev/psplibraries.git
+[submodule "pspdev/psp-ports.git"]
+	path = pspdev/psp-ports.git
+	url = https://github.com/pspdev/psp-ports.git
+[submodule "pspdev/psplinkusb.git"]
+	path = pspdev/psplinkusb.git
+	url = https://github.com/pspdev/psplinkusb.git
+[submodule "pspdev/pspsdk.git"]
+	path = pspdev/pspsdk.git
+	url = https://github.com/pspdev/pspsdk.git
+[submodule "pspdev/psptoolchain.git"]
+	path = pspdev/psptoolchain.git
+	url = https://github.com/pspdev/psptoolchain.git
+[submodule "pspdev/prxtool.git"]
+	path = pspdev/prxtool.git
+	url = https://github.com/pspdev/prxtool.git
